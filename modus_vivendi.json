@@ -1,0 +1,23 @@
+{
+  "background": "#000000",
+  "black": "#0C0C0C",
+  "blue": "#2FAFFF",
+  "brightBlack": "#595959",
+  "brightBlue": "#79A8FF",
+  "brightCyan": "#6AE4B9",
+  "brightGreen": "#70B900",
+  "brightPurple": "#B6A0FF",
+  "brightRed": "#FF7F9F",
+  "brightWhite": "#F2F2F2",
+  "brightYellow": "#FEC43F",
+  "cursorColor": "#FFFFFF",
+  "cyan": "#00D3D0",
+  "foreground": "#FFFFFF",
+  "green": "#44BC44",
+  "name": "Modus Vivendi",
+  "purple": "#FEACD0",
+  "red": "#FF5F59",
+  "selectionBackground": "#FFFFFF",
+  "white": "#989898",
+  "yellow": "#D0BC00"
+}
