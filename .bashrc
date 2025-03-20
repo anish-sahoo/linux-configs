@@ -74,3 +74,5 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 export PATH="$PATH:/home/asahoo/.cache/scalacli/local-repo/bin/scala-cli"
 export PATH="$PATH:/home/asahoo/.local/share/coursier/bin"
+
+export PATH=$PATH:/usr/local/go/bin
